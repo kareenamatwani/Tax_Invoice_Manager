@@ -45,7 +45,7 @@ Data Integrity: The PDF Extractor ensures the integrity of the extracted data by
 ### Usage
 1. Clone the repository from GitHub using the command:
    ```
-   git clone https://github.com/your_username/tax_invoice_project.git
+   git clone https://github.com/kareenamatwani/tax_invoice_project.git
    ```
 2. Navigate to the project directory:
    ```
