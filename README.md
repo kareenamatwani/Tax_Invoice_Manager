@@ -67,11 +67,7 @@ Data Integrity: The PDF Extractor ensures the integrity of the extracted data by
 - Before running the application, you can use the sample input files provided in the src/pdf_file folder for testing purposes. These files include:
   table_1.csv: This is the generated csv during the testing
   Test PDF.pdf: This PDF (tax invoice) file contains sample data for testing the application.
-
-
-This summary provides a comprehensive overview of the Tax Invoice Project, covering its purpose, features, implementation details, and usage instructions.
-
---- 
+```
 
 Thanks for reading!
 
