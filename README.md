@@ -73,5 +73,5 @@ This summary provides a comprehensive overview of the Tax Invoice Project, cover
 
 --- 
 
-Feel free to adjust the content or formatting as needed for your GitHub repository.
+Thanks for reading!
 
