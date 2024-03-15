@@ -7,8 +7,8 @@ The Tax Invoice Project is a Python-based application designed to manage and ana
 ## Topics
 
 ### Introduction
-- Overview of the Tax Invoice Project.
-- Objective and purpose of the project.
+- Overview: The Tax Invoice Project aims to streamline the process of managing and analyzing tax invoice transactions.
+- Objective: The project's primary objective is to provide a robust solution for businesses to efficiently handle tax invoice data and generate insightful reports for analysis.
 
 ### Features
 - Transaction data extraction from PDF files.
