@@ -57,7 +57,7 @@ Data Integrity: The PDF Extractor ensures the integrity of the extracted data by
    ```
 4. Run the project by executing the `run.py` file:
    ```
-   python run.py /path/to/your/csv_file.csv
+   python run.py
    ```
 5. Follow the prompts and instructions to extract transaction data, generate reports, and analyze the data.
 
@@ -65,8 +65,8 @@ Data Integrity: The PDF Extractor ensures the integrity of the extracted data by
 ## Testing Instructions
 ### Sample Input Files
 - Before running the application, you can use the sample input files provided in the src/pdf_file folder for testing purposes. These files include:
-  table_1.csv: This is the generated csv during the testing
-  Test PDF.pdf: This PDF (tax invoice) file contains sample data for testing the application.
+  table_1.csv: This is the generated csv during the testing after the extraction from PDF provided.
+  Test PDF.pdf: This PDF (tax invoice) file contains sample data for testing the application (currently Tabular data).
 
 
 Thanks for reading!
