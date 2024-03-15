@@ -1,6 +1,3 @@
-Certainly! Here's the GitHub README for the Tax Invoice Manager project:
-
----
 
 # Tax Invoice Manager: Transaction Analysis and Reporting System
 
